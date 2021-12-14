@@ -1,0 +1,2 @@
+Pour lancer le logiciel, il vous faut QT Creator en 5.0.1 (basé sur QT 5.15.2), nous ne sommes pas sûrs si le logiciel marche sous d'autres versions.
+Vous devez donc ouvrir le projet (Ultimate_3D_Crypto_Compressor.pro), ensuite, il vous suffit juste d'exécuter le projet.
